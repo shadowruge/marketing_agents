@@ -1,6 +1,6 @@
 # Plano de marketing — 30 dias | Cafeteria de bairro
 
-**Premissas assumidas** (não houve tempo para confirmar com o cliente; validar na semana 1):
+**Premissas a validar na semana 1** (não confirmadas com o cliente):
 orçamento total de **R$ 1.500** no mês; objetivo **levar gente na loja** (não awareness); ticket médio **R$ 22**; loja aberta **ter–dom** (segunda fechada = 26 dias abertos, não 30); Instagram existe e está fraco, **Google Meu Negócio ainda não verificado**, sem site. Nome de trabalho "Café da Esquina" — substituir.
 
 ---
@@ -10,8 +10,8 @@ orçamento total de **R$ 1.500** no mês; objetivo **levar gente na loja** (não
 **A tese do plano:** uma cafeteria nova de bairro não tem problema de marca, tem problema de **primeira visita**. Com R$ 1.500, a verba não compra alcance — compra **visita rastreada** e **retorno em 7 dias**. Portanto:
 
 - **Nenhuma campanha de reconhecimento.** Toda ação tem cupom, código ou contagem no caixa.
-- **Google Ads fica desligado no mês 1.** Busca local é capturada de graça pelo perfil do Google Meu Negócio; pagar R$ 3,40 o clique para disputar com padarias de 200 avaliações enquanto temos 2 é queimar 23% da verba para gerar 4–6 visitas.
-- **Mídia paga é 44% da verba e 22% da meta.** Meta Ads, raio de 3 km, R$ 22/dia, objetivo conversão. Entrega realista: **55–58 visitas a ~R$ 11,50**.
+- **Google Ads fica desligado no mês 1.** Busca local é capturada de graça pelo perfil do Google Meu Negócio; pagar R$ 3,40 o clique para disputar com padarias de 200 avaliações enquanto temos 2 é queimar 23% da verba de mídia para gerar 4–6 visitas.
+- **Mídia paga é 39–44% da verba e 25% das visitas do cenário-base.** Meta Ads, raio de 3 km, objetivo conversão. Teto de R$ 660 (R$ 18/dia em dias abertos, D3–D28 + R$ 4/dia de retargeting, D10–D30 + R$ 100 de reforço na última semana); realização prevista **≈ R$ 586**, e o não gasto volta para a reserva. Entrega realista: **55–58 visitas a ~R$ 10,70**.
 - **A oferta é o motor, não o anúncio.** "Café de Boas-Vindas" (pedido de padaria ≥ R$ 12 → café coado 200 ml grátis, só em horário ocioso) + "Cartão do Vizinho" (volta em 7 dias, café grátis). Custo ~R$ 2,45 por cliente atendido.
 - **O canal mais barato por visita é o que quase ninguém mede:** parceria com 5 comércios a menos de 300 m e o retorno do cartão. Juntos, carregam 55 visitas por quase R$ 0 de mídia.
 
@@ -75,7 +75,7 @@ Sem isso, todo real gasto depois vira clique sem destino.
 
 | Frente | Ação |
 |---|---|
-| **Mídia** | Dia 22–23: liberar R$ 100 de reserva **só se** CPV acumulado < R$ 10. Reforço quinta–domingo. Dia 28: desliga prospecção, mantém retargeting a R$ 4/dia |
+| **Mídia** | Dia 22–23: usar os R$ 100 de reforço **já previstos no teto de mídia** só se CPV acumulado < R$ 10. Reforço quinta–domingo. Dia 28: desliga prospecção, mantém retargeting a R$ 4/dia |
 | **Oferta** | "Última semana do Café de Boas-Vindas" — urgência real, não inventada |
 | **Conteúdo** | 3 depoimentos em vídeo de clientes reais → viram criativo do mês 2. Post com avaliações reais |
 | **Fechamento** | Planilha fechada, 6 canais lado a lado com o previsto, custo por visita de cada um. **Meta: 10 avaliações no Google e 200+ contatos na base** — esse é o ativo que o mês 2 usa de graça |
@@ -88,17 +88,17 @@ Sem isso, todo real gasto depois vira clique sem destino.
 
 | Linha | Valor | Observação |
 |---|---|---|
-| Meta Ads | **R$ 660** | R$ 18/dia prospecção + R$ 4/dia retargeting |
-| Oferta: cortesias + cartões impressos | **R$ 550** | R$ 400 originais + R$ 150 da reserva **liberados no dia 1** |
+| Meta Ads | **R$ 660 (teto)** | R$ 18/dia prospecção em dias abertos (D3–D28) + R$ 4/dia retargeting (D10–D30) + R$ 100 de reforço; realização prevista **≈ R$ 586** |
+| Oferta: cortesias + cartões impressos | **R$ 550** | R$ 400 originais + R$ 150 remanejados (reserva original de R$ 290, hoje R$ 140) |
 | Domínio, hospedagem, 600 flyers | **R$ 150** | |
 | Reserva de contingência | **R$ 140** | Só com CPV < R$ 10 ou estouro justificado |
 | **Total** | **R$ 1.500** | |
 
-**Correção importante de aritmética:** a oferta de R$ 400 não fechava. 250 visitas × ~70% de resgate × R$ 2,45 = **R$ 428**, sem contar os cartões impressos (~R$ 120). Os R$ 400 acabariam por volta do **16º dia aberto**. Por isso o teto operacional é **165 cortesias** (não 250), e a reserva de R$ 150 é verba obrigatória, não colchão.
+**Custo da oferta:** 250 visitas × ~70% de resgate × R$ 2,45 = **R$ 428**, mais ~R$ 120 de cartões impressos. Com R$ 400, a oferta acabaria por volta do **16º dia aberto**. Por isso o teto operacional é **165 cortesias** (R$ 404) e os R$ 150 adicionais são verba obrigatória, não colchão.
 
 ### Metas por canal — números reconciliados
 
-Os planos originais somavam 250, mas duas linhas estavam otimistas: 35 visitas de flyer implicava 3,5–5,8% de resgate (o real é 0,5–2%) e 45 visitas do Google implicava 50% de conversão de rota (o real é 20–30%). Corrigido:
+**Por que flyer e Google caem:** 35 visitas de flyer exigiriam 3,5–5,8% de resgate (o real é 0,5–2%) e 45 visitas do Google exigiriam 50% de conversão de rota (o real é 20–30%).
 
 | Canal | Meta 30 dias | Como se mede |
 |---|---|---|
@@ -118,16 +118,16 @@ São **26 dias abertos**, então a média é **9,6/dia**, não 8,3. Semana 1 é 
 | Checkpoint | Alvo acumulado | Piso (−20%) | Leitura se estiver no piso |
 |---|---|---|---|
 | **D7** | 40 | 32 | Recupera, mas sem folga. Investigue canal, não oferta |
-| **D14** | 98 | 78 | Exige +13% sobre o plano: comece a testar 1 alavanca nova |
-| **D21** | 166 | 133 | Exige +39%: inviável. **Revise a meta para 210–220** e proteja a margem |
+| **D14** | 98 | 78 | Exige recuperar ~25% até o D21: comece a testar 1 alavanca nova |
+| **D21** | 166 | 133 | Sem folga no ritmo atual: a meta de 250 já não fecha. **Revise para 210–220** e proteja a margem |
 | **D28** | 238 | 190 | Feche em ~200 e documente o motivo |
 
 ### Economia unitária (o que decide onde vai o próximo real)
 
 - Margem de contribuição: 60% de R$ 22 = **R$ 13,20**
-- Menos custo da oferta: **R$ 10,75–11,25 de contribuição líquida por visita**
+- Menos custo da oferta: **R$ 10,75–11,50 de contribuição líquida por visita** (resgate de 100% a 70%)
 - **CPV alvo ≤ R$ 11 · aceitável ≤ R$ 13 · teto R$ 15 · corte > R$ 20**
-- Mídia a R$ 11,50 **empata** na primeira visita (ROAS bruto 1,9; em margem 1,14). Não é canal de lucro no mês 1 — é canal de aquisição de base. **Não escalar mídia antes de medir a margem real em 10 pedidos.**
+- **Ponto de equilíbrio da primeira visita: CPV ≈ R$ 11,50** — margem de contribuição de R$ 13,20 menos R$ 1,72 de oferta (70% de resgate × R$ 2,45). Com o CPV previsto (R$ 10,70), a margem da primeira visita fica em ~R$ 0,80 (ROAS bruto 2,06). Não é canal de lucro no mês 1 — é canal de aquisição de base. **Não escalar mídia antes de medir a margem real em 10 pedidos.**
 
 ---
 
